@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Hello, my name is Ifedapo Abiola, a current student at Mount Saint Mary's University.
+🔭 I am currently working on creating a webpage covers the faculty of the Computer Science department at Mount Saint Mary's University.
+🌱 I am currently learning full-stack web development as a class and in my spare time using Codecademy. Also, I will be joining a team to create a web platform like craiglist with specified abilities.
+👯 
+🤔 I am looking for help in tips on getting better at software development.
+💬
+📫
+😄
+⚡ Fun fact about me is that I am interested in social issues and discussions.
+
 <!--
 **IfedapoA/IfedapoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
